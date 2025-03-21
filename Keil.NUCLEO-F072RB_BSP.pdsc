@@ -37,7 +37,7 @@
     <packages>
       <package vendor="Keil" name="STM32F0xx_DFP"      version="3.0.0-0"/>
       <package vendor="ARM"  name="CMSIS"              version="6.0.0-0"/>
-      <package vendor="ARM"  name="CMSIS-Driver_STM32" version="1.1.1-0"/>
+      <package vendor="ARM"  name="CMSIS-Driver_STM32" version="1.2.0-0"/>
     </packages>
   </requirements>
 
